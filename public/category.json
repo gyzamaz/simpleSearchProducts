@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "category test title",
+    "slug": "test",
+    "products": [
+      {
+        "title": "white",
+        "description": "white color",
+        "price": 1,
+        "quantity": 1,
+        "id": "1a",
+        "image": {
+          "name": "white",
+          "url": "/img/white.png"
+        }
+      },
+      {
+        "title": "red",
+        "description": "red color",
+        "price": 2,
+        "quantity": 1,
+        "id": "2b",
+        "image": {
+          "name": "red",
+          "url": "/img/red.png"
+        }
+      },
+      {
+        "title": "gray",
+        "description": "gray color",
+        "price": 3,
+        "quantity": 1,
+        "id": "3c",
+        "image": {
+          "name": "dark",
+          "url": "/img/gray.png"
+        }
+      }
+    ]
+  }
+]
